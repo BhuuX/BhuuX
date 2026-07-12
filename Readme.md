@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Think+%26+Scale;%231+Rank+—+Hack2Skill+Innovation+Competition;Open+Source+Contributor+%7C+Always+Learning;Passionate+about+Scalable+Web+Apps" />
+
 
 <br/><br/>
 
@@ -190,18 +190,6 @@ const BhushanY = {
       </div>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://bhuu.in">
-        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuu.in" width="100%" alt="Portfolio — bhuu.in" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://bhuux.in">
-        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuux.in" width="100%" alt="BhuuX Studio — bhuux.in" />
-      </a>
-    </td>
-  </tr>
 </table>
 
 <br/>
@@ -241,18 +229,6 @@ const BhushanY = {
         <img src="https://img.shields.io/badge/JavaScript-cc00ff?style=flat-square&logo=javascript&logoColor=white" />
         <img src="https://img.shields.io/badge/Netlify-ff00ff?style=flat-square&logo=netlify&logoColor=white" />
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://sem-saver.vercel.app">
-        <img src="https://image.thum.io/get/width/600/crop/400/https://sem-saver.vercel.app" width="100%" alt="SemSaver" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://bhuuxstore.netlify.app">
-        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuuxstore.netlify.app" width="100%" alt="Habit Tracker" />
-      </a>
     </td>
   </tr>
 </table>
@@ -319,14 +295,14 @@ const BhushanY = {
 
 ### 🔥 Streak
 
-<img src="https://streak-stats.demolab.com?user=BhuuX&theme=radical&hide_border=true&background=0D0D0D&stroke=ff00ff&ring=6600cc&fire=ff00ff&currStreakNum=FFFFFF&sideNums=cc99ff&currStreakLabel=ff66ff&sideLabels=6600cc&dates=666699" width="68%" />
+<img src="https://streak-stats.demolab.com/?user=BhuuX&theme=radical&hide_border=true&background=0D0D0D&stroke=ff00ff&ring=6600cc&fire=ff00ff&currStreakNum=FFFFFF&sideNums=cc99ff&currStreakLabel=ff66ff&sideLabels=6600cc&dates=666699" width="68%" />
 
 <br/>
 
 ### 📈 Stats
 
-<img height="178" src="https://github-readme-stats.vercel.app/api?username=BhuuX&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&icon_color=cc00ff&text_color=cc99ff&ring_color=6600cc&count_private=true" />
-<img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuuX&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&text_color=cc99ff&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BhuuX&theme=2077" height="178" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BhuuX&theme=2077" height="178" />
 
 </div>
 
