@@ -84,10 +84,14 @@ const BhushanY = {
   </tr>
   <tr>
     <td width="50%">
-      <img src="./preview/lexvoda.png" width="100%" alt="LexVoda-AI Preview" />
+      <a href="https://github.com/BhuuX/LexVoda-AI">
+        <img src="https://opengraph.githubassets.com/1/BhuuX/LexVoda-AI" width="100%" alt="LexVoda-AI" />
+      </a>
     </td>
     <td width="50%">
-      <img src="./preview/lifeos.png" width="100%" alt="LifeOS AI Preview" />
+      <a href="https://github.com/BhuuX/lifeos-ai-decision-engine">
+        <img src="https://opengraph.githubassets.com/1/BhuuX/lifeos-ai-decision-engine" width="100%" alt="LifeOS AI" />
+      </a>
     </td>
   </tr>
 </table>
@@ -123,10 +127,14 @@ const BhushanY = {
   </tr>
   <tr>
     <td width="50%">
-      <img src="./preview/janu.png" width="100%" alt="JANU-GOOGLE Preview" />
+      <a href="https://github.com/BhuuX/JANU-GOOGLE">
+        <img src="https://opengraph.githubassets.com/1/BhuuX/JANU-GOOGLE" width="100%" alt="JANU-GOOGLE" />
+      </a>
     </td>
     <td width="50%">
-      <img src="./preview/articals.png" width="100%" alt="Articals Website Preview" />
+      <a href="https://github.com/BhuuX/Articals-Website">
+        <img src="https://opengraph.githubassets.com/1/BhuuX/Articals-Website" width="100%" alt="Articals Website" />
+      </a>
     </td>
   </tr>
 </table>
@@ -184,10 +192,14 @@ const BhushanY = {
   </tr>
   <tr>
     <td width="50%">
-      <img src="./preview/clearpath.png" width="100%" alt="Portfolio Preview" />
+      <a href="https://bhuu.in">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuu.in" width="100%" alt="Portfolio — bhuu.in" />
+      </a>
     </td>
     <td width="50%">
-      <img src="./preview/store.png" width="100%" alt="BhuuX Studio Preview" />
+      <a href="https://bhuux.in">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuux.in" width="100%" alt="BhuuX Studio — bhuux.in" />
+      </a>
     </td>
   </tr>
 </table>
@@ -233,10 +245,14 @@ const BhushanY = {
   </tr>
   <tr>
     <td width="50%">
-      <img src="./preview/semsaver.png" width="100%" alt="SemSaver Preview" />
+      <a href="https://sem-saver.vercel.app">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://sem-saver.vercel.app" width="100%" alt="SemSaver" />
+      </a>
     </td>
     <td width="50%">
-      <img src="./preview/habit.png" width="100%" alt="Habit Tracker Preview" />
+      <a href="https://bhuuxstore.netlify.app">
+        <img src="https://image.thum.io/get/width/600/crop/400/https://bhuuxstore.netlify.app" width="100%" alt="Habit Tracker" />
+      </a>
     </td>
   </tr>
 </table>
@@ -278,40 +294,11 @@ const BhushanY = {
       </a>
     </td>
     <td width="33%" valign="top" align="center">
-      <h4>🌐 Portfolieo (v1)</h4>
-      <p>My original portfolio — the first version. HTML-based, where it all started.</p>
-      <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
-      <br/><br/>
-      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Portfolieo&body=Name%3A%0AOrganization%3A%0APurpose%3A">
-        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
       <h4>🎮 E-Sports-Applicaton-1</h4>
       <p>My very first web application — an e-sports platform built before I knew how to code. The start of the journey.</p>
       <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
       <br/><br/>
       <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20E-Sports-Applicaton-1-&body=Name%3A%0AOrganization%3A%0APurpose%3A">
-        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>⚙️ Application</h4>
-      <p>Internal JavaScript application — private. Request access with your intent and I'll review.</p>
-      <img src="https://img.shields.io/badge/JavaScript-6600cc?style=flat-square&logo=javascript&logoColor=white" />
-      <br/><br/>
-      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Application&body=Name%3A%0AOrganization%3A%0APurpose%3A">
-        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-      </a>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>🌍 Web-Application</h4>
-      <p>An early HTML web application. Private. Available for review on request.</p>
-      <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
-      <br/><br/>
-      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Web-Application&body=Name%3A%0AOrganization%3A%0APurpose%3A">
         <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
       </a>
     </td>
@@ -336,14 +323,10 @@ const BhushanY = {
 
 <br/>
 
-### 📈 Activity
+### 📈 Stats
 
 <img height="178" src="https://github-readme-stats.vercel.app/api?username=BhuuX&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&icon_color=cc00ff&text_color=cc99ff&ring_color=6600cc&count_private=true" />
 <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuuX&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&text_color=cc99ff&langs_count=8" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BhuuX&bg_color=0D0D0D&color=cc99ff&line=6600cc&point=ff00ff&area=true&area_color=1a0030&hide_border=true&radius=6" width="100%" />
 
 </div>
 
