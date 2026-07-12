@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0D0D,30:1a0030,65:6600cc,90:ff00ff,100:ff66ff&text=BhuuX&fontColor=FFFFFF&fontSize=90&fontAlignY=38&desc=▶%20AI%20Architect%20%7C%20Sovereign%20Systems%20Engineer%20%7C%20India&descAlignY=62&descSize=16&animation=fadeIn&stroke=ff00ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0D0D0D,30:1a0030,65:6600cc,90:ff00ff,100:ff66ff&text=Bhushan%20Y&fontColor=FFFFFF&fontSize=80&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20India%20🇮🇳&descAlignY=62&descSize=18&animation=fadeIn" width="100%" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+Building+AI+Systems+That+Think+%26+Scale;🏆+%231+Rank+—+Hack2Skill+Innovation+Competition;🔐+14+Classified+Repos+in+the+Sovereign+Vault;🇮🇳+India's+Sovereign+Architect+is+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=Building+AI+Systems+That+Think+%26+Scale;%231+Rank+—+Hack2Skill+Innovation+Competition;Open+Source+Contributor+%7C+Always+Learning;Passionate+about+Scalable+Web+Apps" />
 
 <br/><br/>
 
@@ -18,18 +18,19 @@
 
 <div align="center">
 
-## ⚡ SYSTEM PROFILE
+## 👋 About Me
 
 </div>
 
 ```ts
-const BhuuX: SovereignArchitect = {
-  alias      : "BhuuX — Sovereign Architect",
-  stack      : ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "LLM Orchestration"],
-  speciality : ["Agentic AI Systems", "Cloud-Native Architecture", "Motion-Rich UI"],
-  manifesto  : "Precision in logic. Excellence in design. Zero compromise.",
-  vault      : { classified: 14, encrypted: true, accessByRequest: true },
-  status     : "🟢 ONLINE — Building the future one system at a time",
+const BhushanY = {
+  name       : "Bhushan Y",
+  location   : "Karnataka, India 🇮🇳",
+  stack      : ["Next.js", "TypeScript", "React", "Node.js", "PostgreSQL"],
+  interests  : ["AI Systems", "Full Stack Development", "UI/UX Design"],
+  learning   : "LLM Orchestration & Agentic AI",
+  websites   : ["https://bhuux.in", "https://bhuu.in"],
+  contact    : "bhuux.in@gmail.com",
 };
 ```
 
@@ -37,175 +38,282 @@ const BhuuX: SovereignArchitect = {
 
 <div align="center">
 
-## 🎬 EPISODE 01 — THE ARCHITECT AWAKENS
+## 🚀 Projects
 
-</div>
-
-```
-╭──────────────────────────────────────────────────────╮
-│                  BhuuX@sovereign:~$                  │
-│  neofetch --show-all                                 │
-├──────────────────────────────────────────────────────┤
-│  OS       : SovereignOS 14 (Arch-based)              │
-│  Shell    : zsh 5.9 + custom plugins                 │
-│  Uptime   : 5 years 0 hours 0 seconds                │
-│  CPU      : Neural-Core @ 4.8GHz (8 cores)          │
-│  RAM      : 32GB — 28GB used by ideas               │
-│  Rank     : #1 Hack2Skill 🏆                         │
-│  Vault    : 14 encrypted systems 🔐                  │
-│  Status   : [██████████] BUILDING THE FUTURE ⚡      │
-╰──────────────────────────────────────────────────────╯
-```
-
----
-
-<div align="center">
-
-## 🚀 EPISODE 02 — THE PROJECT FORGE
-
-<sub>A selection of systems built in the sovereign lab. Some are public. Some are classified.</sub>
+<sub>A selection of what I've built — public repos below, private ones available on request.</sub>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════ ROW 1 ═══════════════════════ -->
+<!-- ════════ PUBLIC REPOS ════════ -->
+
+<div align="center">
+
+### 🌐 Public Repositories
+
+</div>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🏆 ClearPath.ai</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20ClearPath.ai&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        <h3>🗳️ LexVoda-AI</h3>
+        <a href="https://github.com/BhuuX/LexVoda-AI">
+          <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
         </a>
         <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🏅+%231+Rank+—+Hack2Skill+2024&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">AI Career Mentor for First-Gen Students. Cloud-native Generative AI platform bridging education and industry at scale. Built with Gemini AI + Firebase + Cloud Run.</p>
-        <img src="https://img.shields.io/badge/Gemini_AI-6600cc?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-cc00ff?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud_Run-ff00ff?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <p align="left">High-performance electoral intelligence platform built for Hack2Skill PromptWars. Features an EVM Simulator, Constitutional Knowledge Engine, and immersive Obsidian UI.</p>
+        <img src="https://img.shields.io/badge/JavaScript-6600cc?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/AI-cc00ff?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Hack2Skill-ff00ff?style=flat-square&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🏛️ BhuuX Studio</h3>
-        <a href="https://github.com/BhuuX/Portfolio">
+        <h3>🧠 LifeOS AI — Decision Engine</h3>
+        <a href="https://github.com/BhuuX/lifeos-ai-decision-engine">
           <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
         </a>
         <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🎨+Production+Engine+for+Elite+Brands&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">High-conversion portfolio hub engineered for performance, security, and motion-rich visual storytelling. Built with Next.js, Tailwind, Framer Motion.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-cc00ff?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+        <p align="left">Context-aware smart assistant that analyzes user situations and generates actionable decisions, structured plans, and productivity strategies in real time.</p>
+        <img src="https://img.shields.io/badge/JavaScript-6600cc?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentic_AI-cc00ff?style=flat-square&logo=openai&logoColor=white" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/ams/hero.jpg" width="100%" alt="ClearPath.ai Preview" />
+      <img src="./preview/lexvoda.png" width="100%" alt="LexVoda-AI Preview" />
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/kitchens/hero.png" width="100%" alt="BhuuX Studio Preview" />
+      <img src="./preview/lifeos.png" width="100%" alt="LifeOS AI Preview" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════ ROW 2 ═══════════════════════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 JANU-GOOGLE</h3>
+        <a href="https://github.com/BhuuX/JANU-GOOGLE">
+          <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <p align="left">An AI agent built on Google's ecosystem — autonomous, intelligent, and designed to push what AI can do out in the open.</p>
+        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Gemini_AI-cc00ff?style=flat-square&logo=google&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📰 Articals-Website (Arena)</h3>
+        <a href="https://github.com/BhuuX/Articals-Website">
+          <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <p align="left">Arena — a curated content platform where design meets absolute content control. Premium editorial layout with a fully custom TypeScript architecture.</p>
+        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-cc00ff?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./preview/janu.png" width="100%" alt="JANU-GOOGLE Preview" />
+    </td>
+    <td width="50%">
+      <img src="./preview/articals.png" width="100%" alt="Articals Website Preview" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ════════ DEPLOYED PRIVATE REPOS ════════ -->
+
+<div align="center">
+
+### 🌐 Deployed Projects — Source is Private
+
+<sub>Live apps you can visit. Source code available on request.</sub>
+
+</div>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>👤 Portfolio</h3>
+        <a href="https://bhuu.in" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_LIVE-bhuu.in-00cc77?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        &nbsp;
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Portfolio&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <p align="left">My personal portfolio site. Built with Next.js, TypeScript, and Framer Motion. Showcases my work, skills, and contact info.</p>
+        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-cc00ff?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏢 BhuuX Studio</h3>
+        <a href="https://bhuux.in" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_LIVE-bhuux.in-00cc77?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        &nbsp;
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX-Studio&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <p align="left">BhuuX Studio — a performance-focused studio website built with React, TypeScript, and Framer Motion. Custom motion architecture throughout.</p>
+        <img src="https://img.shields.io/badge/React-6600cc?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-cc00ff?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="./preview/clearpath.png" width="100%" alt="Portfolio Preview" />
+    </td>
+    <td width="50%">
+      <img src="./preview/store.png" width="100%" alt="BhuuX Studio Preview" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <table>
   <tr>
     <td width="50%" valign="top">
       <div align="center">
         <h3>💾 SemSaver</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20SemSaver&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+        <a href="https://sem-saver.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_LIVE-sem--saver.vercel.app-00cc77?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        &nbsp;
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Sem-Saver&body=Name%3A%0AOrganization%3A%0APurpose%3A">
           <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
         </a>
         <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛡️+Secure+Academic+Management+System&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">Enterprise-grade Academic Management System with role-based access control, AI-powered analytics, and real-time security monitoring including devtools interception.</p>
-        <img src="https://img.shields.io/badge/React-6600cc?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-cc00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
+        <p align="left">Peer-to-peer academic knowledge network for students by BhuuX Studio. Students share resources, get AI-powered suggestions, and collaborate in real time.</p>
         <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-cc00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-ff00ff?style=flat-square&logo=vercel&logoColor=white" />
       </div>
     </td>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🔥 HabitFlow</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20HabitFlow&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+        <h3>🔥 Habit Tracker</h3>
+        <a href="https://bhuuxstore.netlify.app" target="_blank">
+          <img src="https://img.shields.io/badge/🌐_LIVE-bhuuxstore.netlify.app-00cc77?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        &nbsp;
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Habit-Tracker&body=Name%3A%0AOrganization%3A%0APurpose%3A">
           <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
         </a>
         <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🧠+AI-Powered+Habit+%26+Productivity+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">AI-powered habit tracking and productivity system with smart streak analytics, pattern recognition, and a motion-rich UI that keeps you locked in on your goals.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agentic_AI-cc00ff?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-6600cc?style=flat-square&logo=mongodb&logoColor=white" />
+        <p align="left">A habit tracking app to build consistency and track streaks over time. Simple, fast, and deployed live on Netlify.</p>
+        <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-cc00ff?style=flat-square&logo=javascript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Netlify-ff00ff?style=flat-square&logo=netlify&logoColor=white" />
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/semsaver/home.svg" width="100%" alt="SemSaver Preview" />
+      <img src="./preview/semsaver.png" width="100%" alt="SemSaver Preview" />
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/habit/hero.png" width="100%" alt="HabitFlow Preview" />
+      <img src="./preview/habit.png" width="100%" alt="Habit Tracker Preview" />
     </td>
   </tr>
 </table>
 
 <br/>
 
-<!-- ═══════════════════════ ROW 3 ═══════════════════════ -->
+<!-- ════════ OTHER PRIVATE REPOS ════════ -->
+
+<div align="center">
+
+### 🔒 Other Private Repositories
+
+<sub>Click "Request Access" to send me an email with your name, org, and purpose.</sub>
+
+</div>
+
+<br/>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛒 BhuuX Store</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX+Store&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛍️+Premium+E-Commerce+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">A fully sovereign e-commerce platform with custom payment integration, real-time inventory, AI-driven product recommendations, and enterprise-grade security.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-cc00ff?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-6600cc?style=flat-square&logo=redis&logoColor=white" />
-      </div>
+    <td width="33%" valign="top" align="center">
+      <h4>📱 Janu</h4>
+      <p>AI Call Assistant & Call Screener for Android 14. Autonomously screens unknown callers with a glassmorphism UI. Built in Kotlin.</p>
+      <img src="https://img.shields.io/badge/Kotlin-6600cc?style=flat-square&logo=kotlin&logoColor=white" />
+      <img src="https://img.shields.io/badge/Android-cc00ff?style=flat-square&logo=android&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Janu&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🔐 Sovereign Vault</h3>
-        <br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🗄️+14+Classified+Repositories&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">Neural Orchestrators, Enterprise SaaS Engines, AI Systems — held under strict classification. Each repository is encrypted and access-gated. Request with intent, purpose, and organization.</p>
-        <br/>
-        <a href="mailto:bhuux.in@gmail.com?subject=Sovereign%20Vault%20Access%20Request&body=Name%3A%0AOrganization%2FCompany%3A%0AWhich%20Repo%3A%0APurpose%20%2F%20Use%20Case%3A%0A%0AI%20understand%20this%20is%20classified%20and%20will%20treat%20it%20accordingly.">
-          <img src="https://capsule-render.vercel.app/api?type=soft&height=46&color=0:1a0030,50:6600cc,100:ff00ff&text=🔐%20REQUEST%20VAULT%20ACCESS&fontSize=15&fontAlignY=52&fontColor=FFFFFF" />
-        </a>
-        <br/><br/>
-        <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=380&lines=🔒+Classified+Systems+Online;🧠+Neural+Orchestrators+Active;⚡+Enterprise+SaaS+Engines+Running;🛡️+Access+By+Request+Only" />
-      </div>
+    <td width="33%" valign="top" align="center">
+      <h4>🎓 Academic-Management-System</h4>
+      <p>Academic management system with role-based access control, analytics dashboard, and real-time monitoring.</p>
+      <img src="https://img.shields.io/badge/JavaScript-6600cc?style=flat-square&logo=javascript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Node.js-cc00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Academic-Management-System&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🌐 Portfolieo (v1)</h4>
+      <p>My original portfolio — the first version. HTML-based, where it all started.</p>
+      <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Portfolieo&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/store/hero.png" width="100%" alt="BhuuX Store Preview" />
+    <td width="33%" valign="top" align="center">
+      <h4>🎮 E-Sports-Applicaton-1</h4>
+      <p>My very first web application — an e-sports platform built before I knew how to code. The start of the journey.</p>
+      <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20E-Sports-Applicaton-1-&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Vault_Systems-14_Active-6600cc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0030" />
+    <td width="33%" valign="top" align="center">
+      <h4>⚙️ Application</h4>
+      <p>Internal JavaScript application — private. Request access with your intent and I'll review.</p>
+      <img src="https://img.shields.io/badge/JavaScript-6600cc?style=flat-square&logo=javascript&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Application&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <h4>🌍 Web-Application</h4>
+      <p>An early HTML web application. Private. Available for review on request.</p>
+      <img src="https://img.shields.io/badge/HTML-6600cc?style=flat-square&logo=html5&logoColor=white" />
+      <br/><br/>
+      <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Web-Application&body=Name%3A%0AOrganization%3A%0APurpose%3A">
+        <img src="https://img.shields.io/badge/🔒_Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+      </a>
     </td>
   </tr>
 </table>
@@ -214,28 +322,26 @@ const BhuuX: SovereignArchitect = {
 
 <div align="center">
 
-## 📡 EPISODE 03 — NEURAL ANALYTICS
+## 📊 GitHub Stats
 
-### 🏆 Combat Trophies
+### 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app/?username=BhuuX&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" />
 
 <br/>
 
-### 🔥 Streak Power
+### 🔥 Streak
 
 <img src="https://streak-stats.demolab.com?user=BhuuX&theme=radical&hide_border=true&background=0D0D0D&stroke=ff00ff&ring=6600cc&fire=ff00ff&currStreakNum=FFFFFF&sideNums=cc99ff&currStreakLabel=ff66ff&sideLabels=6600cc&dates=666699" width="68%" />
 
 <br/>
 
-### 📊 System Metrics
+### 📈 Activity
 
 <img height="178" src="https://github-readme-stats.vercel.app/api?username=BhuuX&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&icon_color=cc00ff&text_color=cc99ff&ring_color=6600cc&count_private=true" />
 <img height="178" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhuuX&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=ff00ff&text_color=cc99ff&langs_count=8" />
 
 <br/>
-
-### 🌊 Contribution Wave
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BhuuX&bg_color=0D0D0D&color=cc99ff&line=6600cc&point=ff00ff&area=true&area_color=1a0030&hide_border=true&radius=6" width="100%" />
 
@@ -245,47 +351,21 @@ const BhuuX: SovereignArchitect = {
 
 <div align="center">
 
-## 🌙 EPISODE 04 — NIGHT PROTOCOL
+## 🛠️ Tech Stack
 
-<img src="https://i.pinimg.com/originals/e6/da/c1/e6dac1038095d76596e8b1bd9653f569.gif" width="420" alt="Anime Night Mode" />
-
-</div>
-
-<br/>
-
-```
-BhuuX@sovereign:~$ cat night.log
-
-  [00:00]  caffeine_level = CRITICAL
-  [01:30]  new_idea_spawned() → architecture_v14.ts
-  [02:47]  auto_commit triggered → pushed to sovereign vault
-  [03:15]  sleep? → process not found
-  [04:50]  Wake. Boot. Build. Repeat.
-
-  "The cursor blinks like a heartbeat at 3AM.
-   That's when the real systems are born."
-                                    — BhuuX
-```
-
----
-
-<div align="center">
-
-## ⚔️ EPISODE 05 — WEAPON LOADOUT
-
-**Frontend Blade**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,figma&perline=6" />
 
 <br/>
 
-**Backend Core**
+**Backend**
 
 <img src="https://skillicons.dev/icons?i=nodejs,python,postgres,mongodb,mysql,express&perline=6" />
 
 <br/>
 
-**Infra Command**
+**Tools & Infra**
 
 <img src="https://skillicons.dev/icons?i=git,github,vercel,docker,aws,linux&perline=6" />
 
@@ -295,18 +375,15 @@ BhuuX@sovereign:~$ cat night.log
 
 <div align="center">
 
-## 📡 OPEN CHANNEL
+## 📬 Connect
 
-<a href="https://github.com/BhuuX"><img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=ff00ff" /></a>
 <a href="mailto:bhuux.in@gmail.com"><img src="https://img.shields.io/badge/Email-6600cc?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/BhuuX"><img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=ff00ff" /></a>
+<a href="https://bhuux.in"><img src="https://img.shields.io/badge/bhuux.in-ff00ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://bhuu.in"><img src="https://img.shields.io/badge/bhuu.in-cc00ff?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.instagram.com/bhuuxofficial.in/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=4000&pause=3000&color=6600cc&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;END+OF+PROFILE+%7C+BhuuX+—+Sovereign+Architect;Private+Repos+%3A+Request+Access+via+Email;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Sovereign+Systems+%7C+Built+by+BhuuX&fontColor=FFFFFF&fontSize=15&fontAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Built+by+Bhushan+Y&fontColor=FFFFFF&fontSize=18&fontAlignY=68&animation=fadeIn" width="100%" />
 
 </div>
