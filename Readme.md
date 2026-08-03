@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+Building+AI+Systems+That+Think+%26+Scale;🏆+%231+Rank+—+Hack2Skill+Innovation+Competition;🔐+15+Classified+Repos+in+the+Sovereign+Vault;🇮🇳+India's+Sovereign+Architect+is+ONLINE" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=20&duration=2500&pause=800&color=FF00FF&center=true&vCenter=true&width=900&lines=⚡+Building+AI+Systems+That+Think+%26+Scale;🏆+%231+Rank+—+Hack2Skill+Innovation+Competition;🔐+17+Classified+Repos+in+the+Sovereign+Vault;🇮🇳+India's+Sovereign+Architect+is+ONLINE" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@ const Bhushan Y: SovereignArchitect = {
   stack      : ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "LLM Orchestration"],
   speciality : ["Agentic AI Systems", "Cloud-Native Architecture", "Motion-Rich UI"],
   manifesto  : "Precision in logic. Excellence in design. Zero compromise.",
-  vault      : { classified: 15, encrypted: true, accessByRequest: true },
+  vault      : { classified: 17, encrypted: true, accessByRequest: true },
   status     : "🟢 ONLINE — Building the future one system at a time",
 };
 ```
@@ -52,7 +52,7 @@ const Bhushan Y: SovereignArchitect = {
 │  CPU      : Neural-Core @ 4.8GHz (8 cores)          │
 │  RAM      : 32GB — 28GB used by ideas               │
 │  Rank     : #1 Hack2Skill 🏆                         │
-│  Vault    : 15 encrypted systems 🔐                  │
+│  Vault    : 17 encrypted systems 🔐                  │
 │  Status   : [██████████] BUILDING THE FUTURE ⚡      │
 ╰──────────────────────────────────────────────────────╯
 ```
@@ -69,121 +69,9 @@ const Bhushan Y: SovereignArchitect = {
 
 <br/>
 
-<!-- ═══════════════════════ ROW 1 ═══════════════════════ -->
+<!-- ═══════════════════════ ROW 1 (LATEST / FRESH) ═══════════════════════ -->
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🏆 ClearPath.ai</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20ClearPath.ai&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🏅+%231+Rank+—+Hack2Skill+2024&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">AI Career Mentor for First-Gen Students. Cloud-native Generative AI platform bridging education and industry at scale. Built with Gemini AI + Firebase + Cloud Run.</p>
-        <img src="https://img.shields.io/badge/Gemini_AI-6600cc?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-cc00ff?style=flat-square&logo=firebase&logoColor=white" />
-        <img src="https://img.shields.io/badge/Cloud_Run-ff00ff?style=flat-square&logo=googlecloud&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🏛️ BhuuX Studio</h3>
-        <a href="https://github.com/BhuuX/Portfolio">
-          <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🎨+Production+Engine+for+Elite+Brands&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">High-conversion portfolio hub engineered for performance, security, and motion-rich visual storytelling. Built with Next.js, Tailwind, Framer Motion.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-cc00ff?style=flat-square&logo=tailwindcss&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/ams/hero.jpg" width="100%" alt="ClearPath.ai Preview" />
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/kitchens/hero.png" width="100%" alt="BhuuX Studio Preview" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════ ROW 2 ═══════════════════════ -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>💾 SemSaver</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20SemSaver&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛡️+Secure+Academic+Management+System&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">Enterprise-grade Academic Management System with role-based access control, AI-powered analytics, and real-time security monitoring including devtools interception.</p>
-        <img src="https://img.shields.io/badge/React-6600cc?style=flat-square&logo=react&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-cc00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🔥 HabitFlow</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20HabitFlow&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🧠+AI-Powered+Habit+%26+Productivity+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">AI-powered habit tracking and productivity system with smart streak analytics, pattern recognition, and a motion-rich UI that keeps you locked in on your goals.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Agentic_AI-cc00ff?style=flat-square&logo=openai&logoColor=white" />
-        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-6600cc?style=flat-square&logo=mongodb&logoColor=white" />
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/semsaver/home.svg" width="100%" alt="SemSaver Preview" />
-    </td>
-    <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/habit/hero.png" width="100%" alt="HabitFlow Preview" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-<!-- ═══════════════════════ ROW 3 ═══════════════════════ -->
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <div align="center">
-        <h3>🛒 BhuuX Store</h3>
-        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX+Store&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
-          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
-        </a>
-        <br/><br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛍️+Premium+E-Commerce+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
-        <br/><br/>
-        <p align="left">A fully sovereign e-commerce platform with custom payment integration, real-time inventory, AI-driven product recommendations, and enterprise-grade security.</p>
-        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Stripe-cc00ff?style=flat-square&logo=stripe&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-6600cc?style=flat-square&logo=redis&logoColor=white" />
-      </div>
-    </td>
     <td width="50%" valign="top">
       <div align="center">
         <h3>🎓 BhuuX ERP</h3>
@@ -200,13 +88,125 @@ const Bhushan Y: SovereignArchitect = {
         <img src="https://img.shields.io/badge/Tailwind-6600cc?style=flat-square&logo=tailwindcss&logoColor=white" />
       </div>
     </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>💾 SemSaver</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20SemSaver&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛡️+Secure+Academic+Management+System&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">Enterprise-grade Academic Management System with role-based access control, AI-powered analytics, and real-time security monitoring including devtools interception.</p>
+        <img src="https://img.shields.io/badge/React-6600cc?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-cc00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+      </div>
+    </td>
   </tr>
   <tr>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/store/hero.png" width="100%" alt="BhuuX Store Preview" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:6600cc&text=🎓%20BhuuX%20ERP%20%7C%20Unified%20College%20Platform&fontSize=16&fontColor=FF00FF&fontAlignY=50&stroke=ff00ff&strokeWidth=1" width="100%" alt="BhuuX ERP Preview" />
     </td>
     <td width="50%">
-      <img src="https://raw.githubusercontent.com/BhuuX/Portfolio/main/public/images/projects/semsaver/home.svg" width="100%" alt="BhuuX ERP Preview" />
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:cc00ff&text=💾%20SemSaver%20%7C%20Academic%20Security%20System&fontSize=16&fontColor=FFFFFF&fontAlignY=50&stroke=6600cc&strokeWidth=1" width="100%" alt="SemSaver Preview" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ ROW 2 ═══════════════════════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🤖 NexusAI Engine</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20NexusAI%20Engine&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=⚡+Multi-Agent+Automation+System&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">Autonomous multi-agent orchestration framework powered by custom LLM tools, background task queues, real-time telemetry, and n8n workflow synthesis.</p>
+        <img src="https://img.shields.io/badge/Agentic_AI-6600cc?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-cc00ff?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-ff00ff?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-6600cc?style=flat-square&logo=n8n&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏆 ClearPath.ai</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20ClearPath.ai&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🏅+%231+Rank+—+Hack2Skill+2024&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">AI Career Mentor for First-Gen Students. Cloud-native Generative AI platform bridging education and industry at scale. Built with Gemini AI + Firebase + Cloud Run.</p>
+        <img src="https://img.shields.io/badge/Gemini_AI-6600cc?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-cc00ff?style=flat-square&logo=firebase&logoColor=white" />
+        <img src="https://img.shields.io/badge/Cloud_Run-ff00ff?style=flat-square&logo=googlecloud&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-0D0D0D?style=flat-square&logo=nextdotjs&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:cc00ff&text=🤖%20NexusAI%20%7C%20Agentic%20Automation%20Engine&fontSize=16&fontColor=FFFFFF&fontAlignY=50&stroke=6600cc&strokeWidth=1" width="100%" alt="NexusAI Preview" />
+    </td>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:6600cc&text=🏆%20ClearPath.ai%20%7C%20AI%20Career%20Mentor&fontSize=16&fontColor=FF00FF&fontAlignY=50&stroke=ff00ff&strokeWidth=1" width="100%" alt="ClearPath.ai Preview" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ ROW 3 ═══════════════════════ -->
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🔥 HabitFlow</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20HabitFlow&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🧠+AI-Powered+Habit+%26+Productivity+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">AI-powered habit tracking and productivity system with smart streak analytics, pattern recognition, and a motion-rich UI that keeps you locked in on your goals.</p>
+        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Agentic_AI-cc00ff?style=flat-square&logo=openai&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-6600cc?style=flat-square&logo=mongodb&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🛒 BhuuX Store</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX+Store&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🛍️+Premium+E-Commerce+Engine&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">A fully sovereign e-commerce platform with custom payment integration, real-time inventory, AI-driven product recommendations, and enterprise-grade security.</p>
+        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Stripe-cc00ff?style=flat-square&logo=stripe&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-ff00ff?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/Redis-6600cc?style=flat-square&logo=redis&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:6600cc&text=🔥%20HabitFlow%20%7C%20AI%20Productivity%20Engine&fontSize=16&fontColor=FF00FF&fontAlignY=50&stroke=ff00ff&strokeWidth=1" width="100%" alt="HabitFlow Preview" />
+    </td>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:cc00ff&text=🛒%20BhuuX%20Store%20%7C%20Sovereign%20E-Commerce&fontSize=16&fontColor=FFFFFF&fontAlignY=50&stroke=6600cc&strokeWidth=1" width="100%" alt="BhuuX Store Preview" />
     </td>
   </tr>
 </table>
@@ -216,13 +216,61 @@ const Bhushan Y: SovereignArchitect = {
 <!-- ═══════════════════════ ROW 4 ═══════════════════════ -->
 <table>
   <tr>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>📊 Datathon26</h3>
+        <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20Datathon26&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
+          <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🩺+Healthcare+AI+%26+Data+Analytics&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">Clinical research data analysis platform for healthcare metrics, predictive disease modeling, and high-dimensional biomedical dataset visualizations.</p>
+        <img src="https://img.shields.io/badge/Python-6600cc?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-cc00ff?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-ff00ff?style=flat-square&logo=react&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-6600cc?style=flat-square&logo=pandas&logoColor=white" />
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center">
+        <h3>🏛️ BhuuX Studio</h3>
+        <a href="https://github.com/BhuuX/Portfolio">
+          <img src="https://img.shields.io/badge/✅_PUBLIC-View_on_GitHub-ff00ff?style=for-the-badge&labelColor=1a0030" />
+        </a>
+        <br/><br/>
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:6600cc&text=🎨+Production+Engine+for+Elite+Brands&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <br/><br/>
+        <p align="left">High-conversion portfolio hub engineered for performance, security, and motion-rich visual storytelling. Built with Next.js, Tailwind, Framer Motion.</p>
+        <img src="https://img.shields.io/badge/Next.js-6600cc?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind-cc00ff?style=flat-square&logo=tailwindcss&logoColor=white" />
+        <img src="https://img.shields.io/badge/Framer-ff00ff?style=flat-square&logo=framer&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-6600cc?style=flat-square&logo=typescript&logoColor=white" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:6600cc&text=📊%20Datathon26%20%7C%20Healthcare%20AI%20Analytics&fontSize=16&fontColor=FF00FF&fontAlignY=50&stroke=ff00ff&strokeWidth=1" width="100%" alt="Datathon26 Preview" />
+    </td>
+    <td width="50%">
+      <img src="https://capsule-render.vercel.app/api?type=rect&height=125&color=0:0D0D0D,40:1a0030,100:cc00ff&text=🏛️%20BhuuX%20Studio%20%7C%20Production%20Engine&fontSize=16&fontColor=FFFFFF&fontAlignY=50&stroke=6600cc&strokeWidth=1" width="100%" alt="BhuuX Studio Preview" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════ ROW 5 (VAULT) ═══════════════════════ -->
+<table>
+  <tr>
     <td width="100%" valign="top">
       <div align="center">
         <h3>🔐 Sovereign Vault</h3>
         <br/>
-        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🗄️+15+Classified+Repositories&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&height=30&color=0:1a0030,100:cc00ff&text=🗄️+17+Classified+Repositories&fontSize=13&fontColor=FFFFFF&fontAlignY=62" width="100%" />
         <br/><br/>
-        <p align="center">Neural Orchestrators, Enterprise SaaS Engines, College ERP Systems, AI Mentors — held under strict classification. Each repository is encrypted and access-gated. Request with intent, purpose, and organization.</p>
+        <p align="center">Neural Orchestrators, Enterprise SaaS Engines, Multi-Agent Automations, College ERP Systems, AI Mentors — held under strict classification. Each repository is encrypted and access-gated. Request with intent, purpose, and organization.</p>
         <br/>
         <a href="mailto:bhuux.in@gmail.com?subject=Sovereign%20Vault%20Access%20Request&body=Name%3A%0AOrganization%2FCompany%3A%0AWhich%20Repo%3A%0APurpose%20%2F%20Use%20Case%3A%0A%0AI%20understand%20this%20is%20classified%20and%20will%20treat%20it%20accordingly.">
           <img src="https://capsule-render.vercel.app/api?type=soft&height=46&color=0:1a0030,50:6600cc,100:ff00ff&text=🔐%20REQUEST%20VAULT%20ACCESS&fontSize=15&fontAlignY=52&fontColor=FFFFFF" />
@@ -230,7 +278,7 @@ const Bhushan Y: SovereignArchitect = {
         <br/><br/>
         <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=12&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=380&lines=🔒+Classified+Systems+Online;🧠+Neural+Orchestrators+Active;⚡+Enterprise+SaaS+Engines+Running;🛡️+Access+By+Request+Only" />
         <br/><br/>
-        <img src="https://img.shields.io/badge/Vault_Systems-15_Active-6600cc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0030" />
+        <img src="https://img.shields.io/badge/Vault_Systems-17_Active-6600cc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0030" />
       </div>
     </td>
   </tr>
