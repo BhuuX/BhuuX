@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0D0D,30:1a0030,65:6600cc,90:ff00ff,100:ff66ff&text=BhuuX&fontColor=FFFFFF&fontSize=90&fontAlignY=38&desc=▶%20AI%20Architect%20%7C%20Sovereign%20Systems%20Engineer%20%7C%20India&descAlignY=62&descSize=16&animation=fadeIn&stroke=ff00ff&strokeWidth=2" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0D0D0D,30:1a0030,65:6600cc,90:ff00ff,100:ff66ff&text=Bhushan%20Y&fontColor=FFFFFF&fontSize=90&fontAlignY=38&desc=▶%20AI%20Architect%20%7C%20Sovereign%20Systems%20Engineer%20%7C%20India&descAlignY=62&descSize=16&animation=fadeIn&stroke=ff00ff&strokeWidth=2" width="100%" />
 
 <br/>
 
@@ -24,7 +24,7 @@
 
 ```ts
 const Bhushan Y: SovereignArchitect = {
-  alias      : "BhuuX — Sovereign Architect",
+  alias      : "Bhushan Y — Sovereign Architect",
   stack      : ["Next.js", "TypeScript", "Node.js", "PostgreSQL", "LLM Orchestration"],
   speciality : ["Agentic AI Systems", "Cloud-Native Architecture", "Motion-Rich UI"],
   manifesto  : "Precision in logic. Excellence in design. Zero compromise.",
@@ -43,7 +43,7 @@ const Bhushan Y: SovereignArchitect = {
 
 ```
 ╭──────────────────────────────────────────────────────╮
-│                  BhuuX@sovereign:~$                  │
+│                 Bhushan@sovereign:~$                 │
 │  neofetch --show-all                                 │
 ├──────────────────────────────────────────────────────┤
 │  OS       : SovereignOS 14 (Arch-based)              │
@@ -328,7 +328,7 @@ const Bhushan Y: SovereignArchitect = {
 <br/>
 
 ```
-BhuuX@sovereign:~$ cat night.log
+Bhushan@sovereign:~$ cat night.log
 
   [00:00]  caffeine_level = CRITICAL
   [01:30]  new_idea_spawned() → architecture_v14.ts
@@ -338,7 +338,7 @@ BhuuX@sovereign:~$ cat night.log
 
   "The cursor blinks like a heartbeat at 3AM.
    That's when the real systems are born."
-                                    — BhuuX
+                                    — Bhushan Y
 ```
 
 ---
@@ -377,10 +377,10 @@ BhuuX@sovereign:~$ cat night.log
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=4000&pause=3000&color=6600cc&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;END+OF+PROFILE+%7C+BhuuX+—+Sovereign+Architect;Private+Repos+%3A+Request+Access+via+Email;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=13&duration=4000&pause=3000&color=6600cc&center=true&vCenter=true&width=700&lines=━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━;END+OF+PROFILE+%7C+Bhushan+Y+—+Sovereign+Architect;Private+Repos+%3A+Request+Access+via+Email;━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Sovereign+Systems+%7C+Built+by+BhuuX&fontColor=FFFFFF&fontSize=15&fontAlignY=68&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:ff66ff,30:ff00ff,65:6600cc,100:1a0030&text=Sovereign+Systems+%7C+Built+by+Bhushan+Y&fontColor=FFFFFF&fontSize=15&fontAlignY=68&animation=fadeIn" width="100%" />
 
 </div>
