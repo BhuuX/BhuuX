@@ -74,7 +74,7 @@ const Bhushan Y: SovereignArchitect = {
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <h3>🎓 BhuuX ERP</h3>
+        <h3>🎓 ERP-SYSTEM </h3>
         <a href="mailto:bhuux.in@gmail.com?subject=Repo%20Access%20Request%3A%20BhuuX%20ERP&body=Name%3A%0AOrganization%3A%0APurpose%2FReason%3A%0A%0AThank%20you.">
           <img src="https://img.shields.io/badge/🔒_PRIVATE-Request_Access-6600cc?style=for-the-badge&labelColor=1a0030" />
         </a>
